@@ -47,7 +47,7 @@ Developed using a Flask server.
 ### Running the Project
 1. Start the Flask server:
     ```sh
-    python app.py
+    python server.py
     ```
 2. Open your web browser and go to `http://127.0.0.1:5000/` to use the house price prediction application.
 <hr>
